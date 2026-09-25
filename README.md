@@ -39,6 +39,14 @@ later logins from replacing a wallpaper the user selects afterward.
 
 The generated fan art depicts characters owned by Nintendo / HAL Laboratory.
 
+### Jolteon Storm
+
+![Jolteon Storm wallpaper](wallpapers/JolteonOS-Jolteon/contents/images/1586x992.png)
+
+### Meta Knight Moonrise
+
+![Meta Knight Moonrise wallpaper](wallpapers/JolteonOS-MetaKnight/contents/images/1586x992.png)
+
 ## Local build
 
 Requirements: Podman with Dockerfile/Containerfile support and sufficient
