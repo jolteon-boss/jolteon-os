@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Jolteon OS default wallpaper
+Comment=Set the Jolteon OS wallpaper the first time Plasma starts
+Exec=/usr/libexec/jolteon-os/set-default-wallpaper.sh
+OnlyShowIn=KDE;
+X-KDE-autostart-phase=2
